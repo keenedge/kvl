@@ -45,6 +45,8 @@ app.MapControllers();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
+app.UseCors("AllowAllOrigins");
+
 // Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{

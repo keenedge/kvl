@@ -1,0 +1,129 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  GIT_SSL_NO_VERIFY: "true"
+  ErrorActionPreference: STOP
+  BUILD_TO: "dist"
+  GIT_STRATEGY: fetch
+  
+job:build-master:
+  stage: build
+  tags:
+    - vislab
+  script:
+    - powershell ./build/build.ps1
+  variables:
+    alpha_env: development
+
+  only:
+    - master
+
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  
+  environment:
+    name: development
+    url: https://staging-alpha.vis.kaust.edu.sa/AlphaWebUi/
+
+
+job:deploy-master:
+  stage: deploy
+  tags:
+    - vislab
+  script:
+    - powershell ./build/deploy.ps1
+  
+  variables:
+    DEPLOY_DEST: "c:\\Alpha\\DEV\\Alpha"
+    DEPLOY_ENV: "Development"
+
+  only:
+    - master
+
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  
+  environment:
+    name: development
+    url: https://staging-alpha.vis.kaust.edu.sa/AlphaWebUi/
+
+job:build-staging:
+  stage: build
+  tags:
+    - vislab
+  script:
+    - bash ./build/build.sh
+  variables:
+    alpha_env: staging
+
+  only:
+    - qa
+
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  environment:
+    name: staging
+    url: https://staging-alpha.vis.kaust.edu.sa/AlphaWebUi/
+job:build-production:
+  stage: build
+  tags:
+    - vislab
+  script:
+    - bash ./build/build.sh
+  variables:
+    alpha_env: production
+
+  only:
+    - production
+
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  environment:
+    name: production
+    url: https://alpha.vis.kaust.edu.sa/AlphaWebUi/
+
+job:stage:
+  stage: deploy
+  tags:
+    - vislab
+  script:
+    - '/opt/kaust/scripts/ci-notifier -v --url https://www-campus-00.vis.kaust.edu.sa:8008/notify'
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  only:
+    - qa
+  variables:
+    alpha_env: staging
+  environment:
+    name: staging
+    url: https://staging.alpha.vis.kaust.edu.sa/AlphaWebUI
+
+job:production:
+  stage: deploy
+  tags:
+    - vislab
+  script:
+    - '/opt/kaust/scripts/ci-notifier -v --url https://www-campus-00.vis.kaust.edu.sa:8008/notify'
+  artifacts:
+    paths:
+      - dist
+    expire_in: 1 year
+  only:
+    - production
+  variables:
+    alpha_env: production
+  environment:
+    name: production
+    url: https://alpha.vis.kaust.edu.sa/AlphaWebUI

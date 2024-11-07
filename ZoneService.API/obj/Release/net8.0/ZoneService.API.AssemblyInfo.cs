@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZoneService.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34af83067be372a9125718b5ac9f42b8332c0301")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZoneService.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZoneService.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

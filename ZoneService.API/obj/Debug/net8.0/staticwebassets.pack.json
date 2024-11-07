@@ -1,267 +1,267 @@
 {
   "Files": [
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\app.20dd6e55a5a0e93d7d2bb398893947a4.css",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\app.20dd6e55a5a0e93d7d2bb398893947a4.css",
       "PackagePath": "staticwebassets\\app.20dd6e55a5a0e93d7d2bb398893947a4.css"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\app.74c06ba17768f984003f8af23414166a.css",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\app.74c06ba17768f984003f8af23414166a.css",
       "PackagePath": "staticwebassets\\app.74c06ba17768f984003f8af23414166a.css"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\MaterialIcons-Regular.012cf6a.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\MaterialIcons-Regular.012cf6a.woff",
       "PackagePath": "staticwebassets\\fonts\\MaterialIcons-Regular.012cf6a.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\Roboto-Bold.ad140ff.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Bold.ad140ff.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Bold.ad140ff.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\Roboto-Light.37fbbba.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Light.37fbbba.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Light.37fbbba.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\Roboto-Medium.303ded6.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Medium.303ded6.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Medium.303ded6.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\Roboto-Regular.081b11e.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Regular.081b11e.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.081b11e.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\Roboto-Thin.90d3804.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Thin.90d3804.woff",
       "PackagePath": "staticwebassets\\fonts\\Roboto-Thin.90d3804.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.198bce0.ttf",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.198bce0.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.198bce0.ttf"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.4489360.eot",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.4489360.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.4489360.eot"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.f412076.woff2",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.f412076.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.f412076.woff2"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.fe6bd13.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.fe6bd13.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-brands-400.fe6bd13.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.2af3425.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.2af3425.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.2af3425.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.60d8eaf.eot",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.60d8eaf.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.60d8eaf.eot"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.6cb8e31.ttf",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.6cb8e31.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.6cb8e31.ttf"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.923bc49.woff2",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.923bc49.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.923bc49.woff2"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.1c697cb.ttf",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.1c697cb.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.1c697cb.ttf"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.5ce1b43.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.5ce1b43.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.5ce1b43.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.8a4a5bd.eot",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.8a4a5bd.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.8a4a5bd.eot"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.b334496.woff2",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.b334496.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-light-300.b334496.woff2"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.232215c.eot",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.232215c.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.232215c.eot"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.9c6f2a1.ttf",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.9c6f2a1.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.9c6f2a1.ttf"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.a3d7d33.woff2",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.a3d7d33.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.a3d7d33.woff2"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.fb33209.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.fb33209.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-regular-400.fb33209.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.149d83e.ttf",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.149d83e.ttf",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.149d83e.ttf"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.40e4669.eot",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.40e4669.eot",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.40e4669.eot"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.9822daf.woff",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.9822daf.woff",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.9822daf.woff"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.dbf1fc9.woff2",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.dbf1fc9.woff2",
       "PackagePath": "staticwebassets\\fonts\\fa-solid-900.dbf1fc9.woff2"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\img\\fa-brands-400.5bfa001.svg",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-brands-400.5bfa001.svg",
       "PackagePath": "staticwebassets\\img\\fa-brands-400.5bfa001.svg"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\img\\fa-duotone-900.314e272.svg",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-duotone-900.314e272.svg",
       "PackagePath": "staticwebassets\\img\\fa-duotone-900.314e272.svg"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\img\\fa-light-300.b3d910b.svg",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-light-300.b3d910b.svg",
       "PackagePath": "staticwebassets\\img\\fa-light-300.b3d910b.svg"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\img\\fa-regular-400.e70221c.svg",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-regular-400.e70221c.svg",
       "PackagePath": "staticwebassets\\img\\fa-regular-400.e70221c.svg"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\img\\fa-solid-900.601eb47.svg",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-solid-900.601eb47.svg",
       "PackagePath": "staticwebassets\\img\\fa-solid-900.601eb47.svg"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\index.html",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\0.7cedb2211b595fa0e065.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\0.7cedb2211b595fa0e065.js",
       "PackagePath": "staticwebassets\\js\\0.7cedb2211b595fa0e065.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\0.9aee9eba76b122a9e45e.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\0.9aee9eba76b122a9e45e.js",
       "PackagePath": "staticwebassets\\js\\0.9aee9eba76b122a9e45e.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\1.28a6a4b5945560da7e8b.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\1.28a6a4b5945560da7e8b.js",
       "PackagePath": "staticwebassets\\js\\1.28a6a4b5945560da7e8b.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\1.be1bf9c66ff1df481e11.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\1.be1bf9c66ff1df481e11.js",
       "PackagePath": "staticwebassets\\js\\1.be1bf9c66ff1df481e11.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\2.2a8fc74404a3d1edef7e.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\2.2a8fc74404a3d1edef7e.js",
       "PackagePath": "staticwebassets\\js\\2.2a8fc74404a3d1edef7e.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\2.bd1c0d9b44156d9d20f2.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\2.bd1c0d9b44156d9d20f2.js",
       "PackagePath": "staticwebassets\\js\\2.bd1c0d9b44156d9d20f2.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\3.baf5c071d69d1b63b612.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\3.baf5c071d69d1b63b612.js",
       "PackagePath": "staticwebassets\\js\\3.baf5c071d69d1b63b612.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\3.bb07f044ae041efaef87.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\3.bb07f044ae041efaef87.js",
       "PackagePath": "staticwebassets\\js\\3.bb07f044ae041efaef87.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\4.14031de061a6e45b3f99.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\4.14031de061a6e45b3f99.js",
       "PackagePath": "staticwebassets\\js\\4.14031de061a6e45b3f99.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\4.dc5e039ff34052d7e98d.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\4.dc5e039ff34052d7e98d.js",
       "PackagePath": "staticwebassets\\js\\4.dc5e039ff34052d7e98d.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\5.09d28a9b95429899af2c.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\5.09d28a9b95429899af2c.js",
       "PackagePath": "staticwebassets\\js\\5.09d28a9b95429899af2c.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\5.50fb687a5094b1ec8f13.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\5.50fb687a5094b1ec8f13.js",
       "PackagePath": "staticwebassets\\js\\5.50fb687a5094b1ec8f13.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\6.c49c7d10846585b2a4bc.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\6.c49c7d10846585b2a4bc.js",
       "PackagePath": "staticwebassets\\js\\6.c49c7d10846585b2a4bc.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\7.cb232dc8b5b2f639e946.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\7.cb232dc8b5b2f639e946.js",
       "PackagePath": "staticwebassets\\js\\7.cb232dc8b5b2f639e946.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\app.2287e40c0703fe462613.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\app.2287e40c0703fe462613.js",
       "PackagePath": "staticwebassets\\js\\app.2287e40c0703fe462613.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\app.28c012f1431d2a122fe3.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\app.28c012f1431d2a122fe3.js",
       "PackagePath": "staticwebassets\\js\\app.28c012f1431d2a122fe3.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\manifest.5e8209450e38bd182b3a.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\manifest.5e8209450e38bd182b3a.js",
       "PackagePath": "staticwebassets\\js\\manifest.5e8209450e38bd182b3a.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\manifest.710fb9ab9118153d7c67.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\manifest.710fb9ab9118153d7c67.js",
       "PackagePath": "staticwebassets\\js\\manifest.710fb9ab9118153d7c67.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\manifest.8fa4520c065535ec851b.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\manifest.8fa4520c065535ec851b.js",
       "PackagePath": "staticwebassets\\js\\manifest.8fa4520c065535ec851b.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\js\\vendor.477b9d88f7b94db428aa.js",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\vendor.477b9d88f7b94db428aa.js",
       "PackagePath": "staticwebassets\\js\\vendor.477b9d88f7b94db428aa.js"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\config.json",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\config.json",
       "PackagePath": "staticwebassets\\statics\\config.json"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\apple-icon-152x152.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\apple-icon-152x152.png",
       "PackagePath": "staticwebassets\\statics\\icons\\apple-icon-152x152.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-16x16.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\statics\\icons\\favicon-16x16.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-32x32.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\statics\\icons\\favicon-32x32.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\icon-128x128.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-128x128.png",
       "PackagePath": "staticwebassets\\statics\\icons\\icon-128x128.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\icon-192x192.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-192x192.png",
       "PackagePath": "staticwebassets\\statics\\icons\\icon-192x192.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\icon-256x256.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-256x256.png",
       "PackagePath": "staticwebassets\\statics\\icons\\icon-256x256.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\icon-384x384.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-384x384.png",
       "PackagePath": "staticwebassets\\statics\\icons\\icon-384x384.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\icon-512x512.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-512x512.png",
       "PackagePath": "staticwebassets\\statics\\icons\\icon-512x512.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\icons\\ms-icon-144x144.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\ms-icon-144x144.png",
       "PackagePath": "staticwebassets\\statics\\icons\\ms-icon-144x144.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\statics\\quasar-logo.png",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\quasar-logo.png",
       "PackagePath": "staticwebassets\\statics\\quasar-logo.png"
     },
     {
-      "Id": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\wwwroot\\test.html",
+      "Id": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\test.html",
       "PackagePath": "staticwebassets\\test.html"
     },
     {

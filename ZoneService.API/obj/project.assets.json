@@ -4124,11 +4124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\ZoneService.API.csproj",
+      "projectUniqueName": "D:\\Alpha\\kvl\\ZoneService.API\\ZoneService.API.csproj",
       "projectName": "ZoneService.API",
-      "projectPath": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\ZoneService.API.csproj",
+      "projectPath": "D:\\Alpha\\kvl\\ZoneService.API\\ZoneService.API.csproj",
       "packagesPath": "C:\\Users\\gtiss\\.nuget\\packages\\",
-      "outputPath": "D:\\KVL\\2024-11\\SRC\\ZoneService.API\\obj\\",
+      "outputPath": "D:\\Alpha\\kvl\\ZoneService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gtiss\\AppData\\Roaming\\NuGet\\NuGet.Config"
