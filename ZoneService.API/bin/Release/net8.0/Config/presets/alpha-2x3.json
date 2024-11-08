@@ -1,0 +1,55 @@
+﻿{
+  "AlphaConfig": {
+    "closeAll": true,
+    "AlphaActions": [
+      {
+        "Id": 1,
+        "Left": 1859,
+        "Top": 0,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "Z2-WIN"
+      },
+      {
+        "Id": 2,
+        "Left": 6134,
+        "Top": 0,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "BYOD 4K Left"
+      },
+      {
+        "Id": 3,
+        "Left": 10409,
+        "Top": 0,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "BYOD 4K Left"
+      },
+      {
+        "Id": 4,
+        "Left": 1859,
+        "Top": 1632,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "Z2-MAC"
+      },
+      {
+        "Id": 5,
+        "Left": 6134,
+        "Top": 1632,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "Z2-VID"
+      },
+      {
+        "Id": 6,
+        "Left": 10409,
+        "Top": 1632,
+        "Height": 1440,
+        "Width": 3440,
+        "Input": "Z2-VID"
+      }
+    ]
+  }
+}

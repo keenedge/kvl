@@ -1,0 +1,29 @@
+﻿{
+  "AlphaConfig": {
+    "AlphaActions": [
+      {
+        "Id": 1,
+        "Y": 0,
+        "X": 4098,
+        "width": 7339,
+        "height": 3072,
+        "AudioEnable": true,
+        "Input": "HD03"
+      }
+    ]
+  },
+  "ThinkLogicalConfig": {
+    "ThinkLogicalActions": [
+      {
+        "device": "TLX24",
+        "path": "TLX-VX320-HD-CON1",
+        "list": [ "" ]
+      },
+      {
+        "device": "VX320",
+        "path": "Z2-ALPHA",
+        "list": [ "" ]
+      }
+    ]
+  }
+}

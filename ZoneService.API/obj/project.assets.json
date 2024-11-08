@@ -4124,11 +4124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Alpha\\kvl\\ZoneService.API\\ZoneService.API.csproj",
+      "projectUniqueName": "D:\\kvl\\ZoneService.API\\ZoneService.API.csproj",
       "projectName": "ZoneService.API",
-      "projectPath": "D:\\Alpha\\kvl\\ZoneService.API\\ZoneService.API.csproj",
+      "projectPath": "D:\\kvl\\ZoneService.API\\ZoneService.API.csproj",
       "packagesPath": "C:\\Users\\gtiss\\.nuget\\packages\\",
-      "outputPath": "D:\\Alpha\\kvl\\ZoneService.API\\obj\\",
+      "outputPath": "D:\\kvl\\ZoneService.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gtiss\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4220,7 +4220,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

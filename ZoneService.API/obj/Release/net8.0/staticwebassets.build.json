@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6HOPEr1VChEoHLp+EMcZEd7WJFwBwzlzBJaH44RzPV4=",
+  "Hash": "fluhTrZcGCnLVteqgWYoi+k6OMcAZyxgjcsBu24KRq4=",
   "Source": "ZoneService.API",
   "BasePath": "_content/ZoneService.API",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "ZoneService.API\\wwwroot",
       "Source": "ZoneService.API",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\app.74c06ba17768f984003f8af23414166a.css",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\app.24a23258b2020bbc550d3cfafaed1b04.css",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "app.74c06ba17768f984003f8af23414166a.css",
+      "RelativePath": "app.24a23258b2020bbc550d3cfafaed1b04.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.74c06ba17768f984003f8af23414166a.css"
+      "OriginalItemSpec": "wwwroot\\app.24a23258b2020bbc550d3cfafaed1b04.css"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.198bce0.ttf",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.198bce0.ttf",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-brands-400.198bce0.ttf",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.198bce0.ttf"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.4489360.eot",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.4489360.eot",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-brands-400.4489360.eot",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.4489360.eot"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.f412076.woff2",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.f412076.woff2",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-brands-400.f412076.woff2",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.f412076.woff2"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.fe6bd13.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-brands-400.fe6bd13.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-brands-400.fe6bd13.woff",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.fe6bd13.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.2af3425.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.2af3425.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-duotone-900.2af3425.woff",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-duotone-900.2af3425.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.60d8eaf.eot",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.60d8eaf.eot",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-duotone-900.60d8eaf.eot",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-duotone-900.60d8eaf.eot"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.6cb8e31.ttf",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.6cb8e31.ttf",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-duotone-900.6cb8e31.ttf",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-duotone-900.6cb8e31.ttf"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.923bc49.woff2",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-duotone-900.923bc49.woff2",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-duotone-900.923bc49.woff2",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-duotone-900.923bc49.woff2"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.1c697cb.ttf",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.1c697cb.ttf",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-light-300.1c697cb.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-light-300.1c697cb.ttf"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.5ce1b43.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.5ce1b43.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-light-300.5ce1b43.woff",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-light-300.5ce1b43.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.8a4a5bd.eot",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.8a4a5bd.eot",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-light-300.8a4a5bd.eot",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-light-300.8a4a5bd.eot"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.b334496.woff2",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-light-300.b334496.woff2",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-light-300.b334496.woff2",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-light-300.b334496.woff2"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.232215c.eot",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.232215c.eot",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-regular-400.232215c.eot",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.232215c.eot"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.9c6f2a1.ttf",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.9c6f2a1.ttf",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-regular-400.9c6f2a1.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.9c6f2a1.ttf"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.a3d7d33.woff2",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.a3d7d33.woff2",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-regular-400.a3d7d33.woff2",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.a3d7d33.woff2"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.fb33209.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-regular-400.fb33209.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-regular-400.fb33209.woff",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.fb33209.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.149d83e.ttf",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.149d83e.ttf",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-solid-900.149d83e.ttf",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.149d83e.ttf"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.40e4669.eot",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.40e4669.eot",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-solid-900.40e4669.eot",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.40e4669.eot"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.9822daf.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.9822daf.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-solid-900.9822daf.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.9822daf.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.dbf1fc9.woff2",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\fa-solid-900.dbf1fc9.woff2",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/fa-solid-900.dbf1fc9.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.dbf1fc9.woff2"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\MaterialIcons-Regular.012cf6a.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\MaterialIcons-Regular.012cf6a.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/MaterialIcons-Regular.012cf6a.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\MaterialIcons-Regular.012cf6a.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Bold.ad140ff.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Bold.ad140ff.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/Roboto-Bold.ad140ff.woff",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Bold.ad140ff.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Light.37fbbba.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Light.37fbbba.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/Roboto-Light.37fbbba.woff",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Light.37fbbba.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Medium.303ded6.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Medium.303ded6.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/Roboto-Medium.303ded6.woff",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Medium.303ded6.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Regular.081b11e.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Regular.081b11e.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/Roboto-Regular.081b11e.woff",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Regular.081b11e.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Thin.90d3804.woff",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\fonts\\Roboto-Thin.90d3804.woff",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "fonts/Roboto-Thin.90d3804.woff",
       "AssetKind": "All",
@@ -530,12 +530,12 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Roboto-Thin.90d3804.woff"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-brands-400.5bfa001.svg",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\img\\fa-brands-400.c5d983d.svg",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "img/fa-brands-400.5bfa001.svg",
+      "RelativePath": "img/fa-brands-400.c5d983d.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fa-brands-400.5bfa001.svg"
+      "OriginalItemSpec": "wwwroot\\img\\fa-brands-400.c5d983d.svg"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-duotone-900.314e272.svg",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\img\\fa-duotone-900.f0dcf0e.svg",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "img/fa-duotone-900.314e272.svg",
+      "RelativePath": "img/fa-duotone-900.f0dcf0e.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fa-duotone-900.314e272.svg"
+      "OriginalItemSpec": "wwwroot\\img\\fa-duotone-900.f0dcf0e.svg"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-light-300.b3d910b.svg",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\img\\fa-light-300.fa4e61d.svg",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "img/fa-light-300.b3d910b.svg",
+      "RelativePath": "img/fa-light-300.fa4e61d.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fa-light-300.b3d910b.svg"
+      "OriginalItemSpec": "wwwroot\\img\\fa-light-300.fa4e61d.svg"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-regular-400.e70221c.svg",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\img\\fa-regular-400.81ec656.svg",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "img/fa-regular-400.e70221c.svg",
+      "RelativePath": "img/fa-regular-400.81ec656.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fa-regular-400.e70221c.svg"
+      "OriginalItemSpec": "wwwroot\\img\\fa-regular-400.81ec656.svg"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\img\\fa-solid-900.601eb47.svg",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\img\\fa-solid-900.c03d470.svg",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "img/fa-solid-900.601eb47.svg",
+      "RelativePath": "img/fa-solid-900.c03d470.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fa-solid-900.601eb47.svg"
+      "OriginalItemSpec": "wwwroot\\img\\fa-solid-900.c03d470.svg"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\index.html",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\index.html",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\0.d4e649cd7b643d94b91a.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\0.d4e649cd7b643d94b91a.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/0.d4e649cd7b643d94b91a.js",
       "AssetKind": "All",
@@ -663,12 +663,12 @@
       "OriginalItemSpec": "wwwroot\\js\\0.d4e649cd7b643d94b91a.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\1.c2f61044b491505e4e3a.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\1.8d84fad5c8d37f8ab93c.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "js/1.c2f61044b491505e4e3a.js",
+      "RelativePath": "js/1.8d84fad5c8d37f8ab93c.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\1.c2f61044b491505e4e3a.js"
+      "OriginalItemSpec": "wwwroot\\js\\1.8d84fad5c8d37f8ab93c.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\2.4444a91bf62c96ea63f5.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\2.4444a91bf62c96ea63f5.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/2.4444a91bf62c96ea63f5.js",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\js\\2.4444a91bf62c96ea63f5.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\3.ac7c164967fe031bec2f.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\3.ac7c164967fe031bec2f.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/3.ac7c164967fe031bec2f.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\3.ac7c164967fe031bec2f.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\4.e19cf9ef13f6ac71b37e.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\4.e19cf9ef13f6ac71b37e.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/4.e19cf9ef13f6ac71b37e.js",
       "AssetKind": "All",
@@ -739,12 +739,12 @@
       "OriginalItemSpec": "wwwroot\\js\\4.e19cf9ef13f6ac71b37e.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\5.88cfbb6f109a7a55f7e9.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\5.47c20bd1b3410e92b8dd.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "js/5.88cfbb6f109a7a55f7e9.js",
+      "RelativePath": "js/5.47c20bd1b3410e92b8dd.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\5.88cfbb6f109a7a55f7e9.js"
+      "OriginalItemSpec": "wwwroot\\js\\5.47c20bd1b3410e92b8dd.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\6.c49c7d10846585b2a4bc.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\6.c49c7d10846585b2a4bc.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/6.c49c7d10846585b2a4bc.js",
       "AssetKind": "All",
@@ -777,12 +777,12 @@
       "OriginalItemSpec": "wwwroot\\js\\6.c49c7d10846585b2a4bc.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\7.cb232dc8b5b2f639e946.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\7.c66bec084ecfbdbab1d6.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "js/7.cb232dc8b5b2f639e946.js",
+      "RelativePath": "js/7.c66bec084ecfbdbab1d6.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\7.cb232dc8b5b2f639e946.js"
+      "OriginalItemSpec": "wwwroot\\js\\7.c66bec084ecfbdbab1d6.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\app.8ab7a69e7c6ee9805f28.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\app.8ab7a69e7c6ee9805f28.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "js/app.8ab7a69e7c6ee9805f28.js",
       "AssetKind": "All",
@@ -815,12 +815,12 @@
       "OriginalItemSpec": "wwwroot\\js\\app.8ab7a69e7c6ee9805f28.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\manifest.b2ee91e4067568641915.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\manifest.710b52b14d82a127a653.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "js/manifest.b2ee91e4067568641915.js",
+      "RelativePath": "js/manifest.710b52b14d82a127a653.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\manifest.b2ee91e4067568641915.js"
+      "OriginalItemSpec": "wwwroot\\js\\manifest.710b52b14d82a127a653.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\js\\vendor.477b9d88f7b94db428aa.js",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\js\\vendor.71475cf3e994a747a2dd.js",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
-      "RelativePath": "js/vendor.477b9d88f7b94db428aa.js",
+      "RelativePath": "js/vendor.71475cf3e994a747a2dd.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\vendor.477b9d88f7b94db428aa.js"
+      "OriginalItemSpec": "wwwroot\\js\\vendor.71475cf3e994a747a2dd.js"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\config.json",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\config.json",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/config.json",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\config.json"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\apple-icon-152x152.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\apple-icon-152x152.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/apple-icon-152x152.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\apple-icon-152x152.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-16x16.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-16x16.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/favicon-16x16.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\favicon-16x16.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-32x32.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\favicon-32x32.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/favicon-32x32.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\favicon-32x32.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-128x128.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-128x128.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/icon-128x128.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\icon-128x128.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-192x192.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-192x192.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/icon-192x192.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\icon-192x192.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-256x256.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-256x256.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/icon-256x256.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\icon-256x256.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-384x384.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-384x384.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/icon-384x384.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\icon-384x384.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-512x512.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\icon-512x512.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/icon-512x512.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\icon-512x512.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\ms-icon-144x144.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\icons\\ms-icon-144x144.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/icons/ms-icon-144x144.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\statics\\icons\\ms-icon-144x144.png"
     },
     {
-      "Identity": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\statics\\quasar-logo.png",
+      "Identity": "D:\\kvl\\ZoneService.API\\wwwroot\\statics\\quasar-logo.png",
       "SourceId": "ZoneService.API",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Alpha\\kvl\\ZoneService.API\\wwwroot\\",
+      "ContentRoot": "D:\\kvl\\ZoneService.API\\wwwroot\\",
       "BasePath": "_content/ZoneService.API",
       "RelativePath": "statics/quasar-logo.png",
       "AssetKind": "All",

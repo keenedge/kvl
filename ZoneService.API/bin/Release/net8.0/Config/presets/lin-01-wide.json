@@ -1,0 +1,41 @@
+﻿{
+  "AlphaConfig": {
+    "AlphaActions": [
+      {
+        "id": 1,
+        "input": "Z2LIN01A",
+        "y": 0,
+        "x": 6830,
+        "width": 6830,
+        "height": 2859,
+        "anchorX": 1,
+        "anchorY": -1,
+        "AudioEnable": true
+      },
+      {
+        "id": 2,
+        "input": "Z2LIN01B",
+        "y": 0,
+        "x": 6830,
+        "width": 6830,
+        "height": 2859,
+        "anchorX": -1,
+        "anchorY": -1
+      }   
+    ]
+  },
+  "ThinkLogicalConfig": {
+    "ThinkLogicalActions": [
+      {
+        "device": "TLX24",
+        "path": "TLX-LIN2BOTH",
+        "list": [ "" ]
+      },
+      {
+        "device": "VX320",
+        "path": "Z2-ALPHA",
+        "list": [ "" ]
+      }
+    ]
+  }
+}

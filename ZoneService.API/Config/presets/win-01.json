@@ -1,0 +1,31 @@
+﻿{
+  "AlphaConfig": {
+    "AlphaActions": [
+      {
+        "Id": 1,
+        "x": 6830,
+        "y": 0,
+        "width": 6880,
+        "height": 2880,
+        "Input": "Z2WIN01A",
+        "AudioEnable": true,
+        "AnchorX":0,
+        "AnchorY":-1
+      }
+    ]
+  },
+  "ThinkLogicalConfig": {
+    "ThinkLogicalActions": [
+      {
+        "device": "TLX24",
+        "path": "TLX-WIN2CON1",
+        "list": [ "" ]
+      },
+      {
+        "device": "VX320",
+        "path": "Z2-ALPHA",
+        "list": [ "" ]
+      }
+    ]
+  }
+}

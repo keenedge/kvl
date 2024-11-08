@@ -1,0 +1,18 @@
+{
+    "Name": null,
+    "Description": null,
+    "Preset": null,
+    "ThinkLogicalConfig": {
+        "ThinkLogicalActions": [
+            {
+                "device": "TLX24",
+                "path": "TLX-LIN2CON1",
+                "list": [
+                    ""
+                ]
+            }
+        ]
+    },
+    "AudioConfig": null,
+    "AlphaConfig": null
+}

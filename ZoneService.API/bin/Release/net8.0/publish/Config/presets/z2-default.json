@@ -1,0 +1,27 @@
+{
+  
+  "Name": null,
+  "Description": null,
+  "Preset": null,
+  "ThinkLogicalConfig": {
+    "ThinkLogicalActions": [
+      {
+        "device": "TLX24",
+        "path": "TLX-Z2FE2CON1",
+        "list": [ "" ]
+      },
+      {
+        "device": "VX320",
+        "path": "Z2-Default",
+        "list": [ "" ]
+      }
+    ]
+  },
+  "AudioConfig": {
+    "AudioActionIDs": [ "Z2-HEADNODE-UNMUTE", "ALPHA-PPT-MUTE", "SHOWCASE-LEVEL-0DB", "Z2-IMAC-UNMUTE", "SHOWCASE-MAC-UNMUTE"]
+  },
+  "AlphaConfig": {
+    "CloseAll": false,
+    "AlphaActions": null
+  }
+}

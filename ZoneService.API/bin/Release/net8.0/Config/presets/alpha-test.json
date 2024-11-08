@@ -1,0 +1,15 @@
+﻿{
+  "AlphaConfig": {
+    "closeAll": true,
+    "AlphaActions": [
+      {
+        "Id": 2,
+        "Left": 1024,
+        "Top": 0,
+        "Height": 2000,
+        "Width": 6830,
+        "Input": "BYOD 4K Left"
+      }
+    ]
+  }
+}

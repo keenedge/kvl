@@ -1,0 +1,23 @@
+﻿{
+  "AlphaConfig": {
+    "closeAll": true,
+    "AlphaActions": [
+      {
+        "Id": 1,
+        "Left": 1024,
+        "Top": 107,
+        "Height": 2859,
+        "Width": 6830,
+        "Input": "Z2-WIN"
+      },
+      {
+        "Id": 2,
+        "Left": 7854,
+        "Top": 107,
+        "Height": 2859,
+        "Width": 6830,
+        "Input": "BYOD 4K Left"
+      }
+    ]
+  }
+}
