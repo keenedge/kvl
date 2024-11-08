@@ -10,6 +10,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+bin/** 
+obj/**
+
 # Editor directories and files
 .idea
 .vscode
