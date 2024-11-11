@@ -29,9 +29,9 @@ namespace Alpha.Services {
 
             output.AddRange(_commandExecutorService.Execute(commands.ToArray()));
             Log.Information( "Command output:");
+            DebugHelpers.LogObject( output, Serilog.Events.LogEventLevel.Information );
 
             return output;
-           // DebugHelpers.LogObject( output, Serilog.Events.LogEventLevel.Information );
             
         }
 

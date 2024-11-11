@@ -189,7 +189,7 @@ namespace Zone.Services
                 _log.Warning(message);
 
                 results.Add(message);
-                return false;
+//                return false;
             }
             try
             {
@@ -246,7 +246,7 @@ namespace Zone.Services
                 _log.Warning(message);
 
                 results.Add(message);
-                return false;
+                //return false;
             }
 
             try

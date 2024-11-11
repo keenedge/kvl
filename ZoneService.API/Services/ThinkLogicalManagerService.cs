@@ -64,7 +64,7 @@ namespace Zone.Services
             {
                 message = $"Routes cannot be applied in a non production environment. [{_hostingEnvironment.EnvironmentName}]";
                 _log.Warning(message);
-                results.Add(message);
+                //results.Add(message);
             }
 
             if (!ThinkLogicalDevices.ContainsKey(deviceName))
@@ -77,8 +77,8 @@ namespace Zone.Services
             {
                 string hostName = ThinkLogicalDevices[deviceName].HostName;
                 
-                if (_hostingEnvironment.IsProduction())
-                {
+//                if (_hostingEnvironment.IsProduction())
+//                {
                     TcpClient device = new TcpClient(hostName, 17567);
                     NetworkStream deviceStream = device.GetStream();
 
@@ -105,7 +105,7 @@ namespace Zone.Services
                     {
                         deviceStream.Close();
                     }
-                }
+  //              }
             }
         }
 
