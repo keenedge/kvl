@@ -7,6 +7,13 @@ using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(builder.Configuration)
+    .MinimumLevel.Debug()
+    .CreateLogger();
+
+Log.Information( "Running...");
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddControllers().AddControllersAsServices();
 builder.Services.AddSwaggerGen();
@@ -56,6 +63,9 @@ app.UseSwaggerUI();
 app.UseSerilogRequestLogging();
 //}
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseDeveloperExceptionPage();
+
+Log.Information($"Environment: {app.Environment.EnvironmentName}");
+Log.Information($"Root Path  : {app.Environment.WebRootPath}");
 app.Run();

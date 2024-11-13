@@ -32,10 +32,11 @@ namespace Zone.Controllers
                 if( !_zoneManagerService.ValidateWallAction(wallAction, results )) {
                     return BadRequest(results);
                 };
-                if( wallAction.Preset == null ) {
-                    return BadRequest(results);
-                };
+                //if( wallAction.Preset == null ) {
+                //    return BadRequest(results);
+                //};
 
+                
                 var result1 = _zoneManagerService.ProcessWallActionFile(wallAction.Preset, results); 
                 var result2 =  _zoneManagerService.Process(wallAction, results);
                 results.ForEach((result) => {

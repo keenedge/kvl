@@ -1,6 +1,0 @@
-@ZoneService.API_HostAddress = http://localhost:2222
-
-GET {{ZoneService.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

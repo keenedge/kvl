@@ -1,23 +1,54 @@
 {
     "AlphaConfig": {
-      "closeAll": true,
-      "AlphaActions": [
-        {
-          "Id": 1,
-          "Left": 1024,
-          "Top": 107,
-          "Height": 2859,
-          "Width": 6830,
-          "Input": "Z2-WIN"
-        },
-        {
-          "Id": 2,
-          "Left": 7854,
-          "Top": 107,
-          "Height": 2859,
-          "Width": 6830,
-          "Input": "BYOD 4K Left"
-        }
-      ]
+        "CloseAll": true,
+        "AlphaActions": [
+            {
+                "id": 1,
+                "input": "Z2-WIN",
+                "Top": 0,
+                "Left": 1024,
+                "Width": 3440,
+                "Height": 1440
+            },
+            {
+                "id": 2,
+                "input": "Z2-LIN",
+                "Top": 0,
+                "Left": 4464,
+                "Width": 3440,
+                "Height": 1440
+            }
+        ]
+    },
+    "ThinkLogicalConfig": {
+        "ThinkLogicalActions" : [
+            {
+                "device": "VX320",
+                "list": [
+                    "CI0281O0118:1",
+                    "CI0282O0119:1",
+                    "CI0283O0126:1",
+                    "CI0284O0127:1",
+                    "CI0285O0134:1",
+                    "CI0286O0135:1",
+                    "CI0287O0142:1",
+                    "CI0288O0143:1",
+                    "CI0289O0150:1",
+                    "CI0290O0151:1",
+                    "CI0291O0120:1",
+                    "CI0292O0121:1",
+                    "CI0293O0128:1",
+                    "CI0294O0129:1",
+                    "CI0295O0136:1",
+                    "CI0296O0137:1",
+                    "CI0297O0144:1",
+                    "CI0298O0145:1",
+                    "CI0299O0152:1",
+                    "CI0300O0153:1",
+                    "CI0138O0138:20"
+                ]
+
+            }
+        ]
     }
-  }
+}

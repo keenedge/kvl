@@ -54,8 +54,8 @@ namespace Zone.Services
 
             if (String.IsNullOrEmpty(presetFileName))
             {
-                // var message = $"Preset file name not supplied... skipping ProcessWallActionFile(string presetFileName)";
-                // results.Add(message);
+                var message = $"Preset file name not supplied... skipping ProcessWallActionFile(string presetFileName)";
+                results.Add(message);
                 result = false;
             }
             else
@@ -251,12 +251,7 @@ namespace Zone.Services
 
             try
             {
-                var result = httpClient.DeleteAsync($"{alphaServiceUrl}/api/window").Result;
-                if (result.StatusCode == HttpStatusCode.OK)
-                {
-                    var r = result.Content.ReadAsStringAsync().Result;
-                    results.Add(r);
-                }
+                _WindowManagerService.CloseAll();
                 return true;
             }
             catch (Exception ex)

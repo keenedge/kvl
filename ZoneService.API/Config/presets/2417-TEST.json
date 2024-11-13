@@ -1,0 +1,30 @@
+﻿{
+  "AlphaConfig": {
+    "CloseAll": true,
+    "AlphaActions": [
+      {
+        "Id": 1,
+        "Left": 2048,
+        "Top": 50,
+        "Height": 50,
+        "Width": 50,
+        "Input": "Z2-WIN"
+      }
+    ]
+  },
+  "AudioConfig": {
+    "AudioActionIDs": [ ]
+  },
+  "ThinkLogicalConfig": {
+    "ThinkLogicalActions": [
+      {
+        "device": "TLX24",
+        "path": "TLX-WIN2CON2"
+      },
+      {
+        "device": "VX320",
+        "path": "vx-2417-test"
+      }      
+    ]
+  }
+}

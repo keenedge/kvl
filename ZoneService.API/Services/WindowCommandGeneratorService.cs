@@ -66,6 +66,8 @@ namespace alpha
 
             int screenTop = _alphaConfig.ScreenTop;
             int screenLeft = _alphaConfig.ScreenLeft;
+            double xScale = _alphaConfig.XScale;
+            double yScale = _alphaConfig.YScale;
 
             int windowTop = window.Y;
             int windowLeft = window.X;
@@ -91,8 +93,10 @@ namespace alpha
             windowTop += screenTop;
             windowLeft += screenLeft;
 
-            window.Y = windowTop;
-            window.X = windowLeft;
+            window.Y = (int)Math.Round(windowTop * yScale);
+            window.X = (int)Math.Round(windowLeft * xScale );
+            window.Height = (int)Math.Round(window.Height * yScale);
+            window.Width = (int)Math.Round(window.Width * xScale);
             Log.Debug("GenerateWindowCommand-AnchorAdjustedWindow");
             //DebugHelpers.LogObject( window, LogEventLevel.Debug );
         }

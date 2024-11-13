@@ -40,8 +40,8 @@ module.exports = function (ctx) {
 
       // Prod
         __ENV__: JSON.stringify('Production'),
-        __API__: JSON.stringify('http://localhost:2222/Api'),
-        __STORE__: JSON.stringify('http://localhost:2222/Api/Config')
+        __API__: JSON.stringify('/Api'),
+        __STORE__: JSON.stringify('/Api/Config')
       },
       scopeHoisting: true,
       vueRouterMode: 'hash',

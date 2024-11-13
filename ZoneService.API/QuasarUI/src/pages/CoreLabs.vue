@@ -103,8 +103,8 @@ export default {
   },
   computed: {
     corelabs () {
-      console.log('test')
-      console.log(this.$store.getters.corelabs)
+      // console.log('test')
+      // console.log(this.$store.getters.corelabs)
 
       return this.$store.getters.corelabs
     }

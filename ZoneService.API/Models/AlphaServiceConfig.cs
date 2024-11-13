@@ -18,5 +18,8 @@ namespace alpha.Models
        public required int ScreenTop { get; set; }
        /// <summary/>
        public required int ScreenLeft { get; set; }
+       public required double XScale { get; set; }
+       /// <summary/>
+       public required double YScale { get; set; }
     }
 }
